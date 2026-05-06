@@ -19,7 +19,7 @@ Trabalho na interseção de **n8n**, **Python** e **JavaScript** para criar sist
 |--------|-----------|-------|
 | [🤖 AI Secretary](https://github.com/gpimentel518-cmd/ai-secretary) | Assistente de atendimento 24/7 com triagem e escalona para humano | Python · n8n · LLM |
 | [💰 Sales AI Agent](https://github.com/SEU-USUARIO/sales-ai-agent) | Qualifica leads e conduz vendas de forma autônoma | Python · JS · n8n |
-| [🎬 Dark Channel Bot](https://github.com/SEU-USUARIO/dark-channel-bot) | Pipeline completo: tema → roteiro → vídeo → upload no YouTube | Python · n8n · FFmpeg |
+| [🎬 Dark Channel Bot](https://github.com/gpimentel518-cmd/canaldark-automatizado.git) | Pipeline completo: tema → roteiro → vídeo → upload no YouTube | Python · n8n · FFmpeg |
 
 ---
 
