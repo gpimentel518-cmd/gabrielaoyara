@@ -37,14 +37,14 @@ Paradigma         →  Vibe Coding — construo rápido, itero com IA
 ---
 
 ## Vibe Coding — minha abordagem
-
+ 
 Vibe Coding é desenvolver com IA como co-piloto real: ideia → prompt → geração → teste → iteração em ciclos rápidos. Isso me permite entregar agentes funcionais em horas, não semanas, mantendo qualidade e adaptabilidade.
-
+ 
 ---
-
+ 
 ## Vamos trabalhar juntos?
 
-Aceito projetos de automação com IA, criação de agentes e consultoria.
+Aceito projetos de automação com IA, criação de agentes, criação de sites e landingpages e consultoria.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU-PERFI](https://www.linkedin.com/in/gabriela-oyara-a400a474/?locale=en))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contato@gabrielaoyara.art)
